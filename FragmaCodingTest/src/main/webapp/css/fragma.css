@@ -1,0 +1,32 @@
+ .dataTables tbody tr td{
+ height: 6px !important;
+ padding: 2px !important;
+ }
+ .dataTables_info, .dataTables_length{
+     width: 50%;
+    float: left;
+ }
+ select[multiple], select[size] {
+    height: 42px;
+}
+.form-group{
+	margin: 10px !important;
+}
+.form-control{
+	height: 28px !important;
+    padding: 0px 12px !important;
+}
+label{
+text-align: right;
+    padding-top: 5px;	
+}
+.box{
+  margin-top: 15px;
+}
+span{
+	padding-left: 25px;
+}
+.shadow{
+	    color: #9192c5;
+    box-shadow: 0 0 5px black;
+}
